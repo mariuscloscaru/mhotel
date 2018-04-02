@@ -3,3 +3,12 @@
 .classpath
 .project
 target/
+mhotel.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/
+business/business.iml
+model/model.iml
+persistence/persistence.iml
